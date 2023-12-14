@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Melon Kernel by Clarence
+kernel.string=kinesis Kernel by clarencelol
 do.devicecheck=1
 do.modules=0
 do.systemless=1
